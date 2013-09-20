@@ -16,6 +16,7 @@ Although we think CoffeeMe could work more broadly, we decided to focus on start
 * <i>Focus</i> &mdash; Focusing on a specific group of people helps us make sure we're building something really useful for them
 * <i>Likely to Network</i> &mdash; Startup people like meeting other startup people, look at all the startup meet ups that happen around town
 * <i>Who We Are</i> &mdash; We understand the problem and people because that's who we are
+
 If you're not a startup person or not in Seattle, we'd still love for you to sign-up. We're thinking about expanding and the more people that sign-up from a place moves it up our list :)
 
 h3. Invite Only
