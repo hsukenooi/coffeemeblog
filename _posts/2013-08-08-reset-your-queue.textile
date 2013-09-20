@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Reset Your Queue"
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+On CoffeeMe, we suggest people you should meet (your queue) and you tell us whether you want to meet them. A common feature request we receive is the ability to change your responses. Now you can!
+
+<img src="{{ site.url }}/images/reset-queue.png">
+
+If you respond to everyone we suggest, you'll this page (above). Clicking on the “Reset Queue” button will everyone you've said not to back into your queue. You tell us whether you want to meet them like you normally would. Nothing changes with the people you've said yes to.
+
+Let us know what you think!
+
+{% include share.html %}

@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Interview with Matt Gamboa"
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+<img src="{{ site.url }}/images/matt-gamboa.jpg">
+
+Matt co-founded QThru, an app that allows you to scan purchases with your smartphone as you shop and check out instantly at a mobile kiosk. He's now working on a new startup.
+
+<b>You majored in Aeronautics, worked on Flight Simulator and played in a band, what brought you to startups?</b>
+
+Computers and Technology have always been my natural passion. I have been doing things online since I was about 7 years old, playing around on a Commodore and BBS systems and MUDs (multi-user dungeons). When I moved out to Seattle after college, I had every intention to work in the aviation industry, but I've always been one to follow my instinct and after putting aviation and music aside, I decided to concentrate on my tech career. Seattle is a hot bed of entrepreneurism and startup creation and everyone I was hanging out with thought in that mindset, so I got the itch when I started following tech blogs like BGR, the Next Web, and Mashable. They would always post about new companies making cool ideas, and I wanted to make something life-changing as well. 
+
+<b>QThru was your first startup, what surprised you?</b>
+
+I was surprised that things like politics, cliques, and communication issues were relevant in a startup.  I always thought that a group of less than 10 people who were all taking the same risk to achieve the same goal would be in complete harmony. But in my startup as well as others I've come to know, personality conflicts exists. It was surprising because in such a small team, you see everyone in the company every day and have to work with each of them. Personally, I think it is in the best interest of the people and the company to get along and align with the business goals. There's no room or time for ego's and if that's happening, it's critical to be addressed quickly. 
+
+<b>Who in startups have you always wanted to meet and why?</b>
+
+Dennis Crowley. I'm still a religious Foursquare user and I've been semi-stalking him and his co-founder Naveen since the launch of Foursquare (after re-branding from Dodgeball). I just mean I read a his tweets, blog posts, instagram posts, etc. I remember seeing instagram posts from him working out of a bar in New York, watching the world cup, and knew that was the type of founder I wanted to be as well.  Someone who could work and live life at the same time, instill purpose into a team, and deliver impressive results.   
+
+<b>What kind of people are you looking to meet on CoffeeMe?</b>
+
+I'd like to meet more co-founders and hopefully some great CEO's in the area to learn about their experiences and validate some of my thoughts. I don't think there are enough one-on-one opportunities, but I do feel that a lot can be learned in a single meeting. Every founder goes through their own challenges and learnings and it is great to hear what they were. I'd also like to meet entrepreneurs currently trying to get something started. I mentor at Startup Weekend and am always wanting to help where I can, I think my experience is a useful thing to share.
+
+<i>Meet Matt and other startup people on <a href="http://coffeeme.in">CoffeeMe</a>. CoffeeMe finds out who wants to meet you professionally, and connects you with them if you're both interested.</i>
+
+{% include share.html %}

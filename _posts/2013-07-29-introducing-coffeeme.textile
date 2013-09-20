@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Introducing CoffeeMe"
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+h3. How It Started
+
+Like all great startup ideas, CoffeeMe started as a conversation between friends that turned into a weekend hack project. We invited a couple dozen friends and hoped for the best. We wondered how long it would take before the first match happened. We didn't have to wait long! Within the first few hours there were two people that wanted to meet each other and within the first few days they had in real life! Since then it's been a great way for people we know (who don't know each other) to meet. Our professional networks have become stronger as a result.
+
+h3. Focusing on Startup People in Seattle
+
+Although we think CoffeeMe could work more broadly, we decided to focus on startup people in Seattle for 3 reasons:
+
+* <i>Focus</i> &mdash; Focusing on a specific group of people helps us make sure we're building something really useful for them
+* <i>Likely to Network</i> &mdash; Startup people like meeting other startup people, look at all the startup meet ups that happen around town
+* <i>Who We Are</i> &mdash; We understand the problem and people because that's who we are
+If you're not a startup person or not in Seattle, we'd still love for you to sign-up. We're thinking about expanding and the more people that sign-up from a place moves it up our list :)
+
+h3. Invite Only
+
+We decided very early on that the product was only going to be as great as the people in the community. It doesn't matter how well it works if the people we're introducing you to aren't people you want to meet. To ensure we're introducing you to people you want to meet, we talk to members to see what types of people they want to meet and approve each person manually.
+
+We'd rather grow slowly if that meant having a higher quality community.
+
+h3. Mission
+
+Our goal with CoffeeMe is to increase people's professional networks by introducing them to new, quality connections. Linkedin does a great job of helping you stay in contact with your connections but a poor job of creating new ones. That's where we come in.
+
+Be part of our community, meet me on <a href="http://coffeeme.in">CoffeeMe</a>, where you might meet your next co-founder, mentor or just someone else trying to put a dent in the universe.
+
+{% include share.html %}

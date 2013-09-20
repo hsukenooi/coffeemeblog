@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Designers Are More Desirable Than Engineers"
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+Since CoffeeMe's launch a few weeks ago, over a thousand decisions about whether someone wants to meet someone else have happened on the site. We dug into the data and here's what we found.
+
+The startup community consists of founders, engineers, designers, business (PMs, Marketing, etc.) and investors. Each group has a different preference on who they want to meet and how much they want to invest in building their professional network.
+
+To examine the profiles of each group and how they interact with one another, we put each member into one of the previous mentioned five groups based on their Linkedin profile. Obviously there's a lot of members that could be in more than one group (engineer founders) but we limited it to a single group.
+
+<img src="{{ site.url }}/images/group-interactions-member-distribution.png">
+
+Next we analyzed how willing each group was to meet, how desirable they were to each other and their interactions with the other groups.
+
+h3. Willingness to Meet
+
+<img src="{{ site.url }}/images/group-interactions-willingness.png">
+
+<i>Founders like meeting people</i>. You never know when you'll need to hire someone, whether they can introduce you to someone useful, etc. When you're a startup founder, increasing your professional network is helpful.
+
+<i>Investors are picky</i>. Everyone wants to meet them and they typically have large professional networks already. They're less likely to take a random meeting
+
+h3. Desirability
+
+<img src="{{ site.url }}/images/group-interactions-desirability.png">
+
+<i>People want to meet investors</i>. Not surprising. Who doesn't want to meet someone with a large professional network and could fund your idea.
+
+<i>People want to meet designers more than they do engineers</i>. This was surprising. Typically at  startup events, non-technical people want to meet engineers and engineers like meeting other engineers. Everyone wants to meet engineers. In our community, people want to meet designers even more. It could be special to our community or a broader trend as startups are focusing more on design.
+
+<i>Sorry business people.</i>
+
+h3. Group to Group Interactions
+
+<img src="{{ site.url }}/images/group-interactions-group-to-group.png">
+
+On the left is the group that chose and the top is the group they made the choice about. For example, if you look at the top left square, designers said yes to meeting another designer 98% of the time.
+
+<i>Designers really want to meet each other</i>. Almost every time a designer was shown another designer they wanted to meet them.
+
+<i>Business people want to meet investors but the feelings aren't mutual</i>. Business people said yes to a investors 75% of the time but investors only said yes to business people 11% of the time. This was the largest difference between two groups.
+
+<i>Founders, everyone wants to meet them</i>. Although investors are the most desirable group overall, they're not popular with each other (weird) and designers. If you look at the columns with the brightest colors, founders are the most universally liked. They're the only group that vertically doesn't have a single blue square that indicates low desirability.
+
+h3. What do you think? 
+
+Has this been your experience meeting other startup people? Let us know in the comments or on Twitter <a href="http://twitter.com/coffeemein">@coffeemein</a>. If you want to be part of community, <a href="http://coffeeme.in">apply here</a>.
+
+{% include share.html %}
