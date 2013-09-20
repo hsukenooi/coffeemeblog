@@ -5,7 +5,7 @@ title: "Interview with Hsu Ken Ooi, Co-Founder of Decide.com"
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
-<img src="{{ site.url }}/images/decide-photo.jpg" style="position: relative; left: -168px;">
+<img src="https://github.com/hsukenooi/coffeemeblog/blob/gh-pages/images/decide-photo.jpg" style="position: relative; left: -168px;">
 
 <i>Decide Team: Hsu Ken is the first one from the left, in the first row, doing the Dragon Ball fusion pose but failing to connect fingers.</i>
 

@@ -11,13 +11,13 @@ The startup community consists of founders, engineers, designers, business (PMs,
 
 To examine the profiles of each group and how they interact with one another, we put each member into one of the previous mentioned five groups based on their Linkedin profile. Obviously there's a lot of members that could be in more than one group (engineer founders) but we limited it to a single group.
 
-<img src="{{ site.url }}/images/group-interactions-member-distribution.png">
+<img src="https://github.com/hsukenooi/coffeemeblog/blob/gh-pages/images/group-interactions-member-distribution.png">
 
 Next we analyzed how willing each group was to meet, how desirable they were to each other and their interactions with the other groups.
 
 h3. Willingness to Meet
 
-<img src="{{ site.url }}/images/group-interactions-willingness.png">
+<img src="https://github.com/hsukenooi/coffeemeblog/blob/gh-pages/images/group-interactions-willingness.png">
 
 <i>Founders like meeting people</i>. You never know when you'll need to hire someone, whether they can introduce you to someone useful, etc. When you're a startup founder, increasing your professional network is helpful.
 
@@ -25,7 +25,7 @@ h3. Willingness to Meet
 
 h3. Desirability
 
-<img src="{{ site.url }}/images/group-interactions-desirability.png">
+<img src="https://github.com/hsukenooi/coffeemeblog/blob/gh-pages/images/group-interactions-desirability.png">
 
 <i>People want to meet investors</i>. Not surprising. Who doesn't want to meet someone with a large professional network and could fund your idea.
 
@@ -35,7 +35,7 @@ h3. Desirability
 
 h3. Group to Group Interactions
 
-<img src="{{ site.url }}/images/group-interactions-group-to-group.png">
+<img src="https://github.com/hsukenooi/coffeemeblog/blob/gh-pages/images/group-interactions-group-to-group.png">
 
 On the left is the group that chose and the top is the group they made the choice about. For example, if you look at the top left square, designers said yes to meeting another designer 98% of the time.
 
