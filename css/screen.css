@@ -111,3 +111,23 @@ a#back-blog:hover { background: #df4747; }
 
 .post .subheadline { font-size: 22px; line-height: 32px; margin-top: -22px; font-style: italic; }
 
+.post .share-links {
+	margin: 0;
+	-webkit-padding-start: 0;
+}
+.post .share-links li {
+	list-style-type: none;
+	display: inline;
+	margin: 0 12px 0 0;
+	position: relative;
+}
+.post .share-links li.twitter-share {
+	top: 4px; 
+}
+.post .share-links li.facebook-num-comments {
+	right: 32px;
+}
+.post #facebook-comments {
+	margin-top: 36px;
+}
+

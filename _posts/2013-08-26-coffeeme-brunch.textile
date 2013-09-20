@@ -1,0 +1,19 @@
+---
+layout: post
+title: "CoffeeMe Brunch"
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+Since CoffeeMe is in the business of introducing people, we thought it'd be fun to have members meet and talk over brunch! 
+
+When: 11 AM on Saturday, September 14, 2013
+Where: <a href="http://www.yelp.com/biz/portage-bay-caf%C3%A9-seattle-8">Portage Bay Cafe in South Lake Union</a>
+
+We decided to limit it to 8 spots so there isn't so many people it feels like a mixer but enough people that it's worth coming to meet.
+
+Please RSVP so we know how many to expect and before all the slots fill up. The price of the ticket is purely for covering the bill, absolutely none of the money will go to CoffeeMe. We thought it'd be easier to charge a flat fee then try to split the bill there: <a href="https://coffeemebrunch.eventbrite.com">https://coffeemebrunch.eventbrite.com</a>
+
+You can look at the guest list on the EventBrite page to see who's already coming. Hope to see you there!
+
+{% include share.html %}
