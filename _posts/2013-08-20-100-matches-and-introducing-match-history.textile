@@ -9,7 +9,7 @@ When we started working on CoffeeMe we curbed our expectations. We've built plen
 
 In celebration of our 100th match we're also introducing Match History, a way to see everyone you've matched with and their email addresses.
 
-<img src="https://github.com/hsukenooi/coffeemeblog/blob/gh-pages/images/match-history.jpg">
+<img src="https://raw.github.com/hsukenooi/coffeemeblog/blob/gh-pages/images/match-history.jpg">
 
 To get to your Match History, click on your email in the top right and then on the "Your Match History" link. No more writing down their email address when you match, we'll keep track of your new contacts for you.
 
