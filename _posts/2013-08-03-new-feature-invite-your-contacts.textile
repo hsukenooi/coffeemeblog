@@ -7,7 +7,7 @@ h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
 One of our biggest challenges is growing our community without sacrificing the quality of people in the community. We're always looking for great people our members want to meet. New members typically come as personal recommendations from our members so we thought, why not build our members a way to invite the great people they know!
 
-<img src="https://github.com/hsukenooi/coffeemeblog/blob/gh-pages/images/invite-contacts.jpg">
+<img src="https://raw.github.com/hsukenooi/coffeemeblog/gh-pages/images/invite-contacts.jpg">
 
 Click on the "Invite Connections" link in the top right, next to your email address. We'll show you a list of your Linkedin Connections, choose who you want to invite and the message you want to send them. Invites are sent as Linkedin Messages.
 
