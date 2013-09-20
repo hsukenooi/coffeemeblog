@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Reset Your Queue"
+excerpt: On CoffeeMe, we suggest people you should meet (your queue) and you tell us whether you want to meet them. A common feature request we receive is the ability to change your responses. Now you can!
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>

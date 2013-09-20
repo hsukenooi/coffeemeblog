@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Is it Harder for Women to Network?"
+excerpt: People have jokingly asked if CoffeeMe was really <a href="http://gotinder.com">Tinder</a> with Linkedin profiles instead of Facebook photos. It isn't but we thought it'd be interesting to look at our data to see if gender played a role in whether people decided whether to meet.
+featured: yes
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Designers Are More Desirable Than Engineers"
+excerpt: Since CoffeeMe's launch a few weeks ago, over a thousand decisions about whether someone wants to meet someone else have happened on the site. We dug into the data and here's what we found.
+featured: yes
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>

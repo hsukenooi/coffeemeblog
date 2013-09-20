@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Interview with Hsu Ken Ooi, Co-Founder of Decide.com"
+excerpt: Decide.com provides unbiased advice to help you save money and avoid buyer's remorse. Based in Seattle, they're a team of 30 that's raised $17M from Madrona, Maveron and Vulcan. They've been featured in the Wall Street Journal, The New York Times and USA Today. 
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>

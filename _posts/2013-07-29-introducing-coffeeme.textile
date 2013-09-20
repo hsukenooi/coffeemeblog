@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Introducing CoffeeMe"
+excerpt: Like all great startup ideas, CoffeeMe started as a conversation between friends that turned into a weekend hack project. We invited a couple dozen friends and hoped for the best. We wondered how long it would take before the first match happened. We didn't have to wait long! Within the first few hours there were two people that wanted to meet each other and within the first few days they had in real life! Since then it's been a great way for people we know (who don't know each other) to meet. Our professional networks have become stronger as a result.
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>

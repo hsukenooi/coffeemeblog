@@ -48,18 +48,38 @@ a:hover,
 #side-bar #name a:hover {
 	border: none;
 }
-
-
 #side-bar #description {
 	margin-top: 0;
 	color: #999;
 }
-
 #body-content { 
 	margin: 54px auto;
 	width: 540px; 
 }
-
+.post-heading {
+	font-size: 18px;
+	line-height: 24px;
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	padding: 12px 0;
+	margin-bottom: 30px;
+	color: #999;
+}
+.posts {
+	list-style-type: none;
+	-webkit-padding-start: 0;
+}
+.posts :last-child {
+	border-bottom: 0 !important;
+}
+.posts .post-listing {
+	padding-bottom: 12px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #eee;
+}
+.posts .post-listing h1 {
+	margin-bottom: 12px;
+}
 .post { 
 	margin-bottom: 36px; 
 	padding-bottom: 48px; 
@@ -98,7 +118,7 @@ a:hover,
 	padding-left: 18px; 
 }
 .post blockquote small { margin-top: 0; letter-spacing: .15em; text-transform:uppercase; font-family: Georgia, Times New Roman, Serif; }
-	.post blockquote.alone p { line-height: 1.75em; font-weight: 300; }
+.post blockquote.alone p { line-height: 1.75em; font-weight: 300; }
 .post .post-date {
 	display: block;
 	margin-top: 24px;

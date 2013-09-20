@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Interview with Matt Gamboa"
+excerpt: Matt co-founded QThru, an app that allows you to scan purchases with your smartphone as you shop and check out instantly at a mobile kiosk. He's now working on a new startup.
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>

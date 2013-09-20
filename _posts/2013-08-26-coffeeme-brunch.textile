@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "CoffeeMe Brunch"
+excerpt: Since CoffeeMe is in the business of introducing people, we thought it'd be fun to have members meet and talk over brunch! 
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>

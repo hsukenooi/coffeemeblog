@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "100 Matches and Introducing Match History"
+excerpt: When we started working on CoffeeMe we curbed our expectations. We've built plenty of products that were rarely used even though we thought they were great. CoffeeMe has been different. We had our first match within the first hour and on Friday we surpassed 100 matches. It's encouraging to hear stories about people actually meeting each other and making meaningful connections. We never knew there were so many people doing great stuff in Seattle!
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
