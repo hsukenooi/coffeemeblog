@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Is it Harder for Women to Network?"
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+People have jokingly asked if CoffeeMe was really <a href="http://gotinder.com">Tinder</a> with Linkedin profiles instead of Facebook photos. It isn't but we thought it'd be interesting to look at our data to see if gender played a role in whether people decided whether to meet.
+
+Let's start with the gender distribution of our members.
+
+<img src="https://s3.amazonaws.com/coffeeme/gender-distribution.png">
+
+Sadly but maybe unsurprisingly only 29% of our member's are women.  I wonder what the actual distribution is for the startup community but our percentage feels anecdotally right.
+
+<img src="https://s3.amazonaws.com/coffeeme/profession-distribution.png">
+
+Women are typically in business (marketing, program management, etc.) and design roles. Men (again sadly but maybe unsurprisingly) are typically engineers and founders. They're actually more technical than this chart suggests, because we forced everyone into one of the groups, there were quite a few technical founders placed in the founders group that would otherwise have been in the engineering group.
+
+<img src="https://s3.amazonaws.com/coffeeme/interactions.png">
+
+Read as the % of time that the gender on the left wants to meet with the gender at the top. For example, the top left cell indicates that men say yes to meeting each other 44.05% of the time.
+
+h3. Men don't say yes to women at a significantly higher rate
+
+Back to our original hypothesis, if men were really using CoffeeMe to meet women, you'd expect the M to F percentage (47.38%) to be significantly higher than the M to M percentage (44.05%). This surprised me. Even though CoffeeMe is strictly for professional networking, when you show someone a person's picture and ask if they want to meet them, physical attraction plays some role. I thought that would skew the M to F percentage at least noticeably higher.
+
+h3. Women say no to men at a significantly higher rate
+
+Of the 4 possible pairings (MF, MM, FF, FM) only the female to male percentage was significantly lower at 37%. What's going on? Being male, I shared this data with a few female members to see what they thought. Here are a few of the themes that surfaced.
+
+<i>Safety</i> &mdash; Despite being a strictly professionally, invite-only product where people meet in public places, safety was a concern. Meeting someone from the internet, who was male and  they didn't know was reason to pause. 
+
+<i>Motivated by Dating</i> &mdash; Women were suspicious of underlying motivations behind the men that wanted to meet them. What's interesting, as we discussed previously, is men don't seem to respond positively to women at a significantly higher rate than they do to other men. Are women assuming men have ulterior motives when they really don't?
+
+<i>Differences in Profession</i> &mdash; As we talked about earlier, women are more likely to be in business and design roles, men are more likely to be technical. In a previous blog post we looked at the % yes rates between professions. It's not clear if profession, not gender, explains the whole story but it's significant.
+
+h3. Is it harder for women to network?
+
+I'd love to hear what other people, especially women, think. Do you find yourself less willing to meet with me? If so, why? If there is truth to this, like our data suggests, it is harder for women to network. One of our female members admitted that despite matching with both men and women, she's only met with the women. Meaning she hasn't felt comfortable meeting the 71% of our community that's male. How does this change?
+
+{% include share.html %}
