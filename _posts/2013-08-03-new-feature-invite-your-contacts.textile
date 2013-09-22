@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Feature: Invite Your Contacts"
-excerpt: One of our biggest challenges is growing our community without sacrificing the quality of people in the community. We're always looking for great people our members want to meet. New members typically come as personal recommendations from our members so we thought, why not build our members a way to invite the great people they know!
+excerpt: of our biggest challenges is growing our community without sacrificing the quality of people in the community. We're always looking for great people our members want to meet. New members typically come as personal recommendations from our members so we thought, why not build our members a way to invite the great people they know!
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
