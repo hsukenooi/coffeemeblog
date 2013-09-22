@@ -19,7 +19,12 @@ a:hover,
 .no-underline { border-bottom: none; }
 .round { border-radius: 3px; }
 .link-arrow { color: #ccc; }
-.demphasis { color: #999; }
+.demphasis { 
+	color: #999; 
+}
+.demphasis a {
+	border-bottom: 1px dotted #ccc;
+}
 
 #side-bar {
 	font-size: 13px;

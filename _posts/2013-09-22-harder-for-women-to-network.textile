@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Is it Harder for Women to Network?"
+excerpt: People have jokingly asked if CoffeeMe was really <a href="http://gotinder.com">Tinder</a> with Linkedin profiles instead of Facebook photos. It isn't but we thought it'd be interesting to look at our data to see if gender played a role in whether people decided whether to meet.
+featured: yes
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+People have jokingly asked if CoffeeMe was really <a href="http://gotinder.com">Tinder</a> with Linkedin profiles instead of Facebook photos. It isn't but we thought it'd be interesting to look at our data to see if gender played a role in whether people decided whether to meet.
+
+Let's start with the gender distribution of our members.
+
+<img src="https://s3.amazonaws.com/coffeeme/gender-distribution.png">
+
+Not surprisingly, but maybe sadly, 29% of our member's are women. The technology industry (especially startups?) has typically been more male-centric. I've always wondered what the actual ratio is but 29% feels anecdotally right.
+
+<img src="https://s3.amazonaws.com/coffeeme/profession-distribution.png">
+
+Women are typically in business (marketing, program management, etc.) and design roles. Men are typically engineers and founders. They're actually more technical than the chart suggests. To simplify, we made a rule that a person could only belong to a single group. There are quite a few technical founders we placed in the founders group that would otherwise have been in the engineering group.
+
+<img src="https://s3.amazonaws.com/coffeeme/interactions.png">
+
+Read the chart as the % of time the gender on the left says yes to meeting the gender above. For example, the top left cell indicates that men say yes to meeting each other 44.05% of the time.
+
+h3. Men don't say yes to women at a significantly higher rate
+
+Men said yes to women 47.38% and to each other 44.05% of the time. I expected the difference to be more significant. Although CoffeeMe is strictly for professional networking, when you show someone a person's picture and ask if they want to meet them, physically attraction is a factor. I thought that would have a bigger impact.
+
+h3. Women say no to men at a significantly higher rate
+
+Of the 4 possible pairings (MF, MM, FF, FM) only the female to male percentage was significantly lower at 37%. What's going on? Being male, I shared this data with a few female members to see what they thought. Here are a few of the themes that surfaced.
+
+<i>Safety</i> &mdash; Despite being a strictly professionally, invite-only product where people meet in public places, safety was a concern. Meeting someone from the internet, who was male and  they didn't know was reason to pause. 
+
+<i>Motivated by Dating</i> &mdash; Women were suspicious of underlying motivations behind the men that wanted to meet them. What's interesting, as we discussed previously, is men don't seem to respond positively to women at a significantly higher rate than they do to other men. Are women assuming men have ulterior motives when they really don't?
+
+<i>Differences in Profession</i> &mdash; As we talked about earlier, women are more likely to be in business and design roles, men are more likely to be technical. In a <a href="http://blog.coffeeme.in/2013/08/12/designers-are-more-desirable-than-engineers/">previous blog post</a> we looked at the % yes rates between professions. It's not clear if profession, not gender, explains the whole story but it's significant.
+
+h3. Is it harder for women to network?
+
+Depends on whether you think safety and dating are primarily responsible or it's simply differences in profession. The truth is probably somewhere in the middle. Some women feel more comfortable than others. One of our female members admitted to only having met with the women she's matched with despite matching with both genders.
+
+This is a small part of a larger conversation that's important. I'd love to hear what people, especially women, think. Do you find yourself less willing to meet with men? If so, why?
+
+<i class="demphasis">Thanks to <a href="https://twitter.com/paigepauli" class="demphasis">Paige Pauli</a>, <a href="https://twitter.com/lulu_cheng"  class="demphasis">Lulu Cheng</a>, <a href="https://twitter.com/rchlwn" class="demphasis">Rachel Wan</a>, <a href="https://twitter.com/rxhannah" class="demphasis">Hannah Yoon</a>, <a href="https://twitter.com/jhychao" class="demphasis">Jessica Chao</a> and <a href="https://twitter.com/serenawu" class="demphasis">Serena Wu</a> for reading drafts of this.</i>
+
+{% include share.html %}
