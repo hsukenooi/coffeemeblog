@@ -33,4 +33,6 @@ Just good old Seattle.
 <b>Why is it invite only?</b>
 To ensure every member has worked at a startup before and live in the cities we've launched in.
 
+Still have questions? Email me: hsukenooi[at]gmail.com</a>
+
 {% include share.html %}
