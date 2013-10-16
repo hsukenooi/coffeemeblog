@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Frequently Asked Questions"
+excerpt: Have questions about how CoffeeMe works? Curious how it works? We've got the answers. 
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+<b>What type of people will I meet?</b>
+Founders, engineers, designers and business people from other startups. Even a few investors. No recruiters.
+
+<b>Can I change my response to someone?</b>
+Yes! After you've gone through everyone in the network, there's a "reset your queue" button that will reset everyone you've said no too. It doesn't change any of the yeses.
+
+<b>What happens when I say yes to someone?</b>
+If they say yes to you then you'll be introduced via email. They won't know how you answered unless they say yes too.
+
+<b>What happens when I say no to someone?</b>
+Nothing. They'll never know how you answered.
+
+<b>What happens when I match with someone?</b>
+The first person to say yes will be introduced via email. The second person will be notified on the site.
+
+<b>Do I have to meet the people I match with?</b>
+You don't have to but you did say you wanted to :)
+
+<b>Do I have to meet them right away?</b>
+Nope. There's no rules on when you have to meet them. That's up to the both of you. It could be this week or next month.
+
+<b>What cities is CoffeeMe available?</b>
+Just good old Seattle.
+
+<b>Why is it invite only?</b>
+To ensure every member has worked at a startup before and live in the cities we've launched in.
+
+{% include share.html %}
