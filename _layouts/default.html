@@ -23,9 +23,17 @@
     </script>
 </head>
 <body>
-  <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
-  <div id="body-content">
+  <!-- Facebook Comments -->
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=154320661428471";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
 
+  <div id="body-content">
 		<div id="side-bar">
 			<a href="/"><img src="https://raw.github.com/hsukenooi/coffeemeblog/gh-pages/images/coffeeme-logo-blog.png"></a>
 			<p id="name"><a href="/" class="no-underline">CoffeeMe Blog</a></p>
@@ -36,10 +44,7 @@
 				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 			</p>
 		</div>
-
 		{{ content }}
-
 	</div>
-
 </body>
 </html>

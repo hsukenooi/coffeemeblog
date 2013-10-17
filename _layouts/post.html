@@ -7,8 +7,5 @@ layout: default
 		{{ content }}
 		<span class="post-date">Posted on <a href="{{ page.url }}">{{ page.date | date: "%b %d, %Y" }}</a></span>
 	</div>
-  <div id="facebook-comments">
-    <a name="facebook_thread" id="facebook_thread"><!-- --></a>
-    <fb:comments href="{{ page.url }}" num_posts="20" width="540"></fb:comments>
-  </div>
+  <div class="fb-comments" data-href="{{ page.url }}" data-colorscheme="light" data-numposts="5" data-width="540"> </div>
 </div>

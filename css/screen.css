@@ -91,7 +91,7 @@ a:hover,
 	margin-bottom: 36px; 
 	padding-bottom: 48px; 
 	position: relative; 
-	border-bottom: 1px solid #eee; 
+	border-bottom: 1px 2solid #eee; 
 }
 .post p { 
 	margin: 0 0 24px; 
@@ -163,5 +163,8 @@ a:hover,
 }
 .post #facebook-comments {
 	margin-top: 36px;
+}
+.post .fb-comments-count {
+	display: inline;
 }
 
