@@ -87,11 +87,8 @@ a:hover,
 	line-height: 42px;
 	margin-bottom: 12px;
 }
-.post { 
-	margin-bottom: 36px; 
-	padding-bottom: 48px; 
-	position: relative; 
-	border-bottom: 1px 2solid #eee; 
+.post {
+	margin-bottom: 30px; 
 }
 .post p { 
 	margin: 0 0 24px; 
