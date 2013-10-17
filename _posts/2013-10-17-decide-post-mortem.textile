@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Postmortem of a Venture-Backed, Acquired Startup"
-excerpt: Lessons learned from Decide.com 
+excerpt: Lessons learned from Decide.com. From my brother's basement to $16.5M in funding, 30 employees and acquisition by eBay.
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
