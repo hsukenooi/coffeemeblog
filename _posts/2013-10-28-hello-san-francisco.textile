@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello San Francisco!"
-excerpt: Have questions about how CoffeeMe works? Curious how it works? We've got the answers. 
+excerpt: CoffeeMe is now available in San Francisco!
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
