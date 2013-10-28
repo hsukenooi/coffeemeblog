@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Hello San Francisco!"
+excerpt: Have questions about how CoffeeMe works? Curious how it works? We've got the answers. 
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+<p class="subheadline">CoffeeMe now available in SF.</p>
+
+What started out as a weekend hack project for a friend's bachelor party (we're nerds) has become a valuable tool for the Seattle startup community. People have used it to meet potential hires, mentors, investors, co-founders or just other startup people going through the same struggles. We hope we can do the same thing for the community here in SF. We're excited to be here!
+
+I'll (<a href="http://twitter.com/hsukenooi">Hsu Ken</a>) be in SF for the next 2 weeks meeting people on CoffeeMe. Say yes to me when I come up! :)
+
+h3. Meet people in other cities
+
+Now that we support 2 locations, we're giving people the ability to set where they want to meet people. If you're a startup person in Seattle but coming to SF for a few days (or vice versa), change your location to SF and setup meetings for when you're down here. It's a great way to network in a new city before you get there.
+
+You can change your location by clicking on your email in the top right and selecting "Change Location" from the drop-down.
+
+h3. Don't live in Seattle or SF?
+
+This is our first city expansion so we're not sure how long it will be before we get to another one. When we do expand we'll look at the city with the most sign-ups (what's up NYC). If you want us to open in your city, sign-up!
+
+For more information on how CoffeeMe works, check out our <a href="http://blog.coffeeme.in/2013/10/15/frequently-asked-questions/">FAQ</a>.
+
+{% include share.html %}
