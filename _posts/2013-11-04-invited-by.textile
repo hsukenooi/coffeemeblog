@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Vouch for New Users"
+title: "Adding Social Proof to CoffeeMe"
 excerpt: Deciding whether you wanted to meet someone on CoffeeMe is largely based on their title, company and education. Today, we're introducing a little social proof to the process.  
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
-<p class="subheadline">Introducing Social Proof to CoffeeMe</p>
+<p class="subheadline">Give Priority Access Through Your Personalized Invite Link</p>
 
 Deciding whether you wanted to meet someone on CoffeeMe is largely based on their title, company and education. Today, we're adding a little social proof to the process.
 
