@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Vouch for New Users"
+excerpt: Deciding whether you wanted to meet someone on CoffeeMe is largely based on their title, company and education. Today, we're introducing a little social proof to the process.  
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+<p class="subheadline">Introducing Social Proof to CoffeeMe</p>
+
+Deciding whether you wanted to meet someone on CoffeeMe is largely based on their title, company and education. Today, we're adding a little social proof to the process.
+
+*Here's how it works:*
+
+<ol>
+  <li>Send your personalized link to anyone you think would be a great addition to CoffeeMe</li>
+  <li>People who sign-up through a personalized link will get priority access since they've already been vetted by someone in the community</li>
+  <li>If someone you've invited is accepted, your name will appear in their profile next to "Invited by"</li>
+</ol>
+
+It's the online version of something that happens in real life. You're thinking about whether to meet someone, someone you know already knows them, they tell you whether you should meet them.
+
+Here's what the invited by looks like and where you get your personalized link:
+
+<img src="https://s3.amazonaws.com/coffeeme/invited-by.png" width="540">
+
+Here's where the personalized link leads except with your name and picture:
+
+<img src="https://s3.amazonaws.com/coffeeme/personalized-landing.png" width="540">
+
+*Priority access for new members.* We're firm believers the best source of new members are from our existing members. We'll keep track of whether an applicant was invited by a current member and boost their priority.
+
+*What does this mean if you're a member?* If you know someone that'd be a great addition, invite them with your personalized link! I'll send out a list of members with the largest and most desirable contingents on CoffeeMe.
+
+*What does this mean if you're not a member?* We'll always accept people that signed-up through the homepage. It'll just be a little faster if you go through someone who's already a member. Ask around you probably know someone.
+
+*Questions?* Email me: hsukenooi on gmail.
+
+{% include share.html %}
