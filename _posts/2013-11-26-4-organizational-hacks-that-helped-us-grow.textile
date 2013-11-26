@@ -6,7 +6,7 @@ excerpt: "When there's only 4 of you, everything happens organically. You don't 
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
-A conversation I often have with founders and product managers is about team and culture, specifically as a company grows from 4 people to 20. At Decide.com, we went from 5 to 20 in about 9 months. Ultimately reaching about 30 people when we were acquired.
+A conversation I often have with founders and product managers is about team and culture, specifically as a company grows from 4 people to 20. At <a href="https://decide.com" target="_blank">Decide.com</a>, we went from 5 to 20 in about 9 months. Ultimately reaching about 30 people when we were acquired.
 
 When there's only 4 of you, everything happens organically. You don't need to worry about organizational stuff. As we grew, we realized quickly that that wasn't going to work anymore. Below are 4 concrete things we did that helped us grow.
 
@@ -56,7 +56,7 @@ Teams were adaptable. If there's anything predictable about startups, it's that 
 
 h2. Get to Know People Presentations 
 
-Kate Matsudaira brought this to Decide. I thought it was contrived. Really? We're going to have people give presentations about themselves?
+<a href="https://twitter.com/katemats" target="_blank">Kate Matsudaira</a> brought this to Decide. I thought it was contrived. Really? We're going to have people give presentations about themselves?
 
 That skepticism disappeared after the first presentation. I loved it. People enjoyed hearing about people at the company and felt like they knew them better afterwards. The presenters, who were always hesitant at first, ended up enjoying themselves too.
 
@@ -87,5 +87,7 @@ h3. Benefits
 Publicly recognizing people for their work is great but the most meaningful part were the  stories people told when voting. Sometimes it was about how they helped them when they were in a bind, how great of a job they did on this project or  how much they enjoyed working with someone. Sometimes it was silly like Brian drinking all the pickle juice from the pickle jar. 
 
 It was humanizing to see people recognize each other, in their own words. I could've done without the award and just read stories.
+
+<i>If you want to see what I'm working on now checkout <a href="https://coffeeme.in" target="_blank">CoffeeMe</a>, or as we like to call it Tinder for professional networking.</i>
 
 {% include share.html %}
