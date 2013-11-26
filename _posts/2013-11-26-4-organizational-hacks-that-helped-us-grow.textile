@@ -1,0 +1,91 @@
+---
+layout: post
+title: "4 Organizational Hacks That Helped Us Grow from 4 to 30 People"
+excerpt: "When there's only 4 of you, everything happens organically. You don't need to worry about organizational stuff. As we grew, we realized quickly that that wasn't going to work anymore. Below are 4 concrete things we did that helped us grow."
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+A conversation I often have with founders and product managers is about team and culture, specifically as a company grows from 4 people to 20. At Decide.com, we went from 5 to 20 in about 9 months. Ultimately reaching about 30 people when we were acquired.
+
+When there's only 4 of you, everything happens organically. You don't need to worry about organizational stuff. As we grew, we realized quickly that that wasn't going to work anymore. Below are 4 concrete things we did that helped us grow.
+
+h2. Demo Thursday
+
+Demo Thursday is what we called our weekly all-hands meetings. In addition to the typical all-hands meeting stuff (company news, question and answer, etc.), we'd primarily focus on showing what people were working on.
+
+It originated from a meeting the 4 of us founders used to have. Every Monday, we'd take turns showing what we'd accomplished the previous week, get feedback and decide what to work on this week.
+
+h3. How It Worked 
+
+A few days before each meeting, we'd ask a few people to show what they were working on. People were welcome to volunteer but that was rare.
+
+In addition to new features and product improvements, we made a conscious effort to ask people working on projects that were essential but not highly visible. At Decide that was stuff like expanding our product catalogue, improving our scrapers, building internal tools to ensure our data was accurate, etc.
+
+We also preferred showing actual work (prototypes, dashboards, wireframes, data, etc.) rather than slides. It was a place to showcase the work of engineers, designers, etc. not product managers. We'd also discourage people from having a product manager talk about the work. We wanted the person working on it to talk about their own work.
+
+Benefits Share ideas and get feedback. Frequently conversations would spring up after the presentation between engineers on how they implemented this, whether they'd thought about this or that they were working on something similar. Designers would ask each other why they'd made a particular decision. The best is when designers talked to engineers about how their work would be really useful for this project they were working on.
+
+Encouragement for non-user facing work. It was awesome to see people get excited about a dashboard someone built to improve our data accuracy. Nobody outside the company would ever see it, most of the people in the company would never use it but someone built that and it made our product better. They should feel just as good about their work as someone that built a user facing feature.
+
+h2. Feature Teams 
+
+People are traditionally organized by their area of expertise (engineering, design, etc.). On the engineering team there might be a font-end engineer who works on the front-end for a couple different projects. She probably doesn't know much outside of the part that she's working on. What's the goal of this project? What's the success metrics? etc. She wasn't involved in those discussions, she was brought in when she needed to do her part.
+
+That sucks. Everything you build has a story. Where did the idea come from? Why do we think this will help people? Did it? People are significantly more motivated when they understand that story. Better still when they've contributed to it.
+
+h3. How It Worked 
+
+Feature Teams are self-sufficient. They're comprised of engineers, designers, etc. whose only responsibility is to their feature team.
+
+Feature Teams have a mission. It might be increasing organic search traffic or expanding our product catalog to include kitchen appliances. Typically these missions were given by the CEO.
+
+Feature Teams are autonomous. After their given their mission, it's up to them to decide how to accomplish it. They come up with their own ideas and priorities.
+
+Feature Teams have a lead. They're responsible for the team's priorities and execution. They're also responsible for communicating with the CEO. Often on the team's plans, challenges, progress, etc. Typically this was a weekly meeting between the lead and CEO. We liked to think of the CEO as the investor. A lead would have to convince him to continue investing on their mission or recommend we invest somewhere else.
+
+Feature Teams are fluid. New teams are created from existing teams to accomplish new missions. Existing teams get more resources as their mission becomes more important or they're having success.
+
+h3. Benefits 
+
+Teams felt ownership. If you hire the right people and give them ownership over what they worked on, they'll consistently go above and beyond what they're required to do. Great people want to do great work, give them the room to do it. This was the biggest reason for our switch to Feature Teams.
+
+Teams could work the way they wanted to. Since the teams were self-sufficient and autonomous they could choose how they wanted to work. Some teams had weekly stand-ups, others did it via email or a chat room. Not everyone wants to work the same way and each project has it's own requirements. Give them  the freedom to work the way they wanted.
+
+Teams were adaptable. If there's anything predictable about startups, it's that they're unpredictable. Since each team is self-sufficient and autonomous, they could collect new data and re-prioritize without having to get approval.
+
+h2. Get to Know People Presentations 
+
+Kate Matsudaira brought this to Decide. I thought it was contrived. Really? We're going to have people give presentations about themselves?
+
+That skepticism disappeared after the first presentation. I loved it. People enjoyed hearing about people at the company and felt like they knew them better afterwards. The presenters, who were always hesitant at first, ended up enjoying themselves too.
+
+h3. How It Worked 
+
+Every few weeks we'd have the team anonymously vote for someone they wanted to get to know better. Often that was someone on the quieter side. We'd then ask them to give a talk based on a simple deck where each slide contained a different question. We'd have them talk during lunch. We'd either order food for everyone or people would get food and bring it back to the office.
+
+Here's the deck we used, feel free to use it!
+
+<script async class="speakerdeck-embed" data-id="ad88901036b00131bc4f22495b4d0b1a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script> 
+
+h3. Benefits 
+
+Teams work better when everyone on the likes and respects each other. It's easier to like and respect someone when you get to know them a little bit. As people instead of co-workers. These presentations helped people open up and made it easier for other people to come talk to them for the first time.
+
+h2. KAW Award 
+
+I don't know the origin story for this one but KAW stands for "Kick Ass Week." It took about 5 minutes before it had it's own chant (say it like a crow would) and hand sign (think dove hand sign). Yes I know they're different birds.
+
+h3. How It Worked 
+
+Prior to our Demo Thursday meetings, people would vote for each other by sending an email to our CEO. Included in the email was a short anecdotal story about why they were voting for them. The winner was typically chosen by popular vote with a little bit of editorial oversight. Some work is more visible than others so we made a conscious effort to occasionally highlight someone who was doing great work that not many people knew about.
+
+At Demo Thursday, we'd announce everyone nominated and the winner, typically to a drum roll. We'd also read a selection of the stories  that people sent in with their votes.
+
+h3. Benefits 
+
+Publicly recognizing people for their work is great but the most meaningful part were the  stories people told when voting. Sometimes it was about how they helped them when they were in a bind, how great of a job they did on this project or  how much they enjoyed working with someone. Sometimes it was silly like Brian drinking all the pickle juice from the pickle jar. 
+
+It was humanizing to see people recognize each other, in their own words. I could've done without the award and just read stories.
+
+{% include share.html %}
