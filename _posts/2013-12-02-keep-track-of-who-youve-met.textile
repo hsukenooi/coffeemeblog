@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Keep Track of Who You Should Meet and Have Already Met"
+excerpt: "When we originally had the idea for CoffeeMe, we didn't anticipate the high number of matches it would provide people. We've been saying for a while that we needed an easy way to keep track of everyone they should meet and had already met. Think of it as a networking to-do list."
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+When we originally had the idea for CoffeeMe, we didn't anticipate the high number of matches it would provide people. We've been saying for a while that we needed an easy way to keep track of everyone they should meet and had already met. Think of it as a networking to-do list. I was alone for Thanksgiving (parents stayed in Asia) so I decided to it was a great time to code!
+
+Your matches screen looks like this now:
+<a href="https://s3.amazonaws.com/coffeeme/new-matches.png" target="_blank">
+  <img src="https://s3.amazonaws.com/coffeeme/new-matches.png" alt="new-matches-screenshot" width="540px;">
+</a>
+
+h3. Added a "Met Them" button. 
+
+Once you've met someone in real life, click on the "Met Them" button. That'll move that person into the "Matches You've  Met" list.
+
+h3. Matches you should meet and already met. 
+
+Think of it as a networking to-do list. "Matches You Should Meet" are people you should to connect with (to-do) and "Matches You've  Met" are people you've already met (done).
+
+Now I can quickly see  I've  met 36 people and have 25 more people to meet. Speaking of which, if you're on my list, I'll be emailing you in the next hour.
+
+Helpful? Let us know what you think in the comments or email me personally hsukenooi at gmail.
+
+{% include share.html %}
