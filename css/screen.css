@@ -6,15 +6,13 @@ body, li {
 	margin: 0; 
 }
 a { 
-	color: #50bf82; 
+	color: #4D4D4D; 
+	border-bottom: 1px dotted #4d4d4d;
 	text-decoration: none; 
-}
-a:hover {
-	border-bottom: 1px solid #50bf82;
 }
 a:hover, 
 .post h1 a:hover { 
-	color: #50bf82; 
+	color: #4D4D4D; 
 }
 .no-underline { border-bottom: none; }
 .round { border-radius: 3px; }
@@ -34,20 +32,21 @@ a:hover,
 	float: left;
 	margin-left: -240px;
 }
-
 #side-bar #avatar {
 	-webkit-border-radius: 100%;
 	border-radius: 100%;
 	height: 100%;
 	width: 100%;
 }
-
 #side-bar #name {
 	display: block;
 	font-size: 16px;
 	font-weight: bold;
 	line-height: 24px;
 	margin: 12px 0 0;
+}
+#side-bar #position {
+	margin-bottom: 24px;
 }
 
 #side-bar #name a:hover {
@@ -104,17 +103,18 @@ a:hover,
 	text-decoration: none; 
 	border-bottom: none;
 }
-.post h1 .link-arrow { 
-	margin-left: 12px; 
-	position: relative; 
-	top: 3px; 
-}
-.post h1 a:hover + .link-arrow, 
-.post p:hover .link-arrow { 
-	color: #50bf82; 
+.post .subheadline { 
+	font-size: 24px; 
+	line-height: 30px; 
+	margin-top: -18px; 
+	color: #999;
+	font-style: italic; 
 }
 .post h4 { font-size: 1em; margin-bottom: 1.125em; line-height: 1.75em; }
-.post li { margin-bottom: 1em; }
+.post ol, .post ul {
+	margin: -6px 0 24px;
+}
+.post li { margin-bottom: 12px; }
 .post .link-arrow { font-size: 1em; margin-left: 0.375em; }
 .post blockquote { 
 	border-left: .375em solid #EEE; 
@@ -129,9 +129,6 @@ a:hover,
 }
 .post .post-date, .post .post-date a { 
 	color: #999; 
-}
-.post .post-date a:hover { 
-	border-bottom: 1px solid #50bf82; 
 }
 
 #pagination { padding-bottom: 5.625em; }

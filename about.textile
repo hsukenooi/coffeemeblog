@@ -1,0 +1,18 @@
+---
+layout: static 
+title: "About CoffeeMe"
+---
+
+h1. {{ page.title }}
+
+<p class="subheadline">Welcome to Your Future Professional Network</p>
+
+CoffeeMe introduces you to useful people  you want to meet professionally. 
+
+Here's how it works:
+
+* We suggest someone you should meet, 
+* You tell us whether you want to meet them and 
+* If you both want to meet, we introduce you via email.
+
+CoffeeMe was founded by <a href="http://twitter.com/hsukenooi" target="_blank">Hsu Ken Ooi</a>. He previously co-founded <a href="http://decide.com" target="_blank">Decide.com</a> a tool that predicted the future price of consumer goods. Decide was acquired by eBay in late 2013.

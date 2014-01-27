@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Edit Your Profile"
+excerpt: ""
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+To edit your profile, click on your email address in the top right corner of the page. A drop down menu will appear, click "Settings". 
+
+You'll see the following screen:
+
+<a href="https://s3.amazonaws.com/coffeeme/profile-edit.png" target="_blank" style="border: 0;"><img src="https://s3.amazonaws.com/coffeeme/profile-edit.png" width="540"></a>
+
+Although this is standard stuff, it moved up our priority list because members told us they wanted different information on their CoffeeMe profile than their Linkedin profile. In a few cases they were more motivated to keep their profile up-to-date on CoffeeMe. 
+
+{% include share.html %}
