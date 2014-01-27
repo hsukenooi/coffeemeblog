@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Edit Your Profile"
-excerpt: ""
+excerpt: "Have different information on your CoffeeMe profile than what's on Linkedin."
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
