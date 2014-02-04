@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Invite Your Linkedin Connections"
+excerpt: "Have different information on your CoffeeMe profile than what's on Linkedin."
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+Now there's a really easy way to give your Linkedin Connections priority access. Early members of the Seattle community will remember this being on the site. We temporarily took it down once once we had the personalized invite link but now we've merged the two and it's back.
+
+<a href="https://s3.amazonaws.com/coffeeme/invite.png" target="_blank" style="border: 0;"><img src="https://s3.amazonaws.com/coffeeme/invite.png" width="540"></a>
+
+If you click the "See the Message" button, you'll see the contents of the message that will be sent.
+
+<a href="https://s3.amazonaws.com/coffeeme/invite-message.png" target="_blank" style="border: 0;"><img src="https://s3.amazonaws.com/coffeeme/invite-message.png" width="540"></a>
+
+For those of you with lots of connections, we've also added the ability to search for specific connections to invite.
+
+<a href="https://s3.amazonaws.com/coffeeme/invite-search.png" target="_blank" style="border: 0;"><img src="https://s3.amazonaws.com/coffeeme/invite-search.png" width="540"></a>
+
+Existing users will have to re-authenticate with Linkedin to give us permission to send messages with your account. Don't worry we won't send any messages you don't specifically ask to send. Promise.
+
+The best source of quality new members are the connections of our existing members!
+
+{% include share.html %}
