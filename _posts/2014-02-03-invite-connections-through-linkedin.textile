@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Invite Your Linkedin Connections"
-excerpt: "Have different information on your CoffeeMe profile than what's on Linkedin."
+excerpt: "Now there's a really easy way to give your Linkedin Connections priority access."
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
@@ -20,6 +20,6 @@ For those of you with lots of connections, we've also added the ability to searc
 
 Existing users will have to re-authenticate with Linkedin to give us permission to send messages with your account. Don't worry we won't send any messages you don't specifically ask to send. Promise.
 
-The best source of quality new members are the connections of our existing members!
+The best source of quality new members are the connections of our existing members! <a href="http://coffeeme.in/Try it now!
 
 {% include share.html %}
