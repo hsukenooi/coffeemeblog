@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Upcoming Changes"
+excerpt: "Context, Messaging and Focusing on Introductions"
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+<p class="subheadline">{{ page.excerpt }}</p>
+
+CoffeeMe was built on the premise that people value their professional network but don't invest in developing them because they aren't satisfied with the available solutions (meet-ups, etc.). 15,130 choices (yes or maybe later) and 1,069 introductions later, we believe even more strongly in that premise.
+
+h2. What We've Learned
+
+We've been surprised by a lot of things (some people say yes to everyone, people are more likely to say yes to a designer than an engineer, everybody wants to meet founders) but the biggest surprise is that people say yes 40% of the time. As a result, we're able to make a lot of introductions in a short period of time. A good problem to be sure but it can be overwhelming.
+
+We've spent a lot of time talking to people, looking at data and thinking about this problem. Here's what we've learned:
+
+<ol>
+  <li><b>Fear of missing out</b> &mdash; People say yes even if they don't have time or want to meet. This happens for 2 reasons: (1) They're afraid of not being able to connect with that person in the future if they don't now (2) This connection might be useful later if not immediately obvious when or why.</li>
+  <li><b>Context matters</b> &mdash; There are a lot of reasons people say yes (share expertise, good person to know, etc.). That information is helpful and not being captured or shared between people.</li>
+  <li><b>Coffee meetings aren't always the right next step</b> &mdash; Coffee meetings are a big time investment (scheduling, getting there, etc.). Depending on the context of the connection, email or talking on the phone might make more sense.</li>
+</ol>
+
+h2. Upcoming Changes
+
+In light of this new information we're going to make the following changes to CoffeeMe.
+
+h3. Messaging After Matches
+
+Instead of being immediately introduced through email, there will be a context layer facilitated by messaging.
+
+Here's what the flow (we're still working on it) looks like:
+
+<script async class="speakerdeck-embed" data-id="bd068a6070f10131f89c26893caedcf5" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+<p style="margin-top: 18px;">We think this will provide context for our introductions.</p>
+
+h3. Focus on Introductions Instead of Coffee Meetings
+
+We're eliminating the implicit expectation that if you match, you're obligated to meet for coffee. Hopefully from the context we're building into the messaging system (above) people can figure out when and what the best way to connect is.
+
+Of course you can still meet for coffee. We hope many of you will. Having met over a 100 of you for coffee in the past 2 months, I know personally it's a incredibly productive way to connect with people.
+
+Thanks for being part of this little experiment so far. I'd love to know what you think about these changes. Email me: hsukenooi@gmail.com.
+
+{% include share.html %}
