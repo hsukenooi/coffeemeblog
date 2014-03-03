@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Introducing Messaging"
+excerpt: "As we mentioned in the previous post, we think context is important. This morning we released some changes that we hope will make  introductions more meaningful and transparent."
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+As we mentioned in the <a href="http://blog.coffeeme.in/2014/02/17/upcoming-changes/">previous post</a>, we think context is important. This morning we released some changes that we hope will make  introductions more meaningful and transparent. 
+
+Matches on the site will no longer be accompanied by an email introduction. Instead people will start conversations by indicating why you're interested in connecting and a short message.
+
+<a href="https://s3.amazonaws.com/coffeeme/compose.png" target="_blank" style="border: 0;"><img src="https://s3.amazonaws.com/coffeeme/compose.png" width="540"></a>
+
+This is similar to what LinkedIn does when you want to add someone to your network but instead of "how do you know them" we want to know "why you want to know them."
+
+After you select your reason and write a short message, a conversation will start. Together you can decide what the best way to connect is (email, phone, in person).
+
+<a href="https://s3.amazonaws.com/coffeeme/show.png" target="_blank" style="border: 0;"><img src="https://s3.amazonaws.com/coffeeme/show.png" width="540"></a>
+
+You can see all your matches and messages on the new matches page. The blue dot indicates a new message that you haven't read. Click on any of your matches to start a conversation.
+
+<a href="https://s3.amazonaws.com/coffeeme/inbox.png" target="_blank" style="border: 0;"><img src="https://s3.amazonaws.com/coffeeme/inbox.png" width="540"></a>
+
+What do you think? Think this will make introductions on CoffeeMe more meaningful? We'd love to know!
+
+{% include share.html %}
