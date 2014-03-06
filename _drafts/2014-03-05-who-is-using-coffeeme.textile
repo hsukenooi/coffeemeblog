@@ -1,0 +1,55 @@
+---
+layout: post
+title: "Who is using CoffeeMe?"
+excerpt: "The first of a four part series where I share CoffeeMe data and what it may suggest about people&rsquo;s preferences in professional networking."
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+This is the first of four post where I share CoffeeMe data. While looking at the data for the purpose of making CoffeeMe better, I&rsquo;ve found it to be rich and interesting for what it suggestions about people&rsquo;s preferences for professional networking. For these posts I&rsquo;ll be using a data set that&rsquo;s a month or so old that contains 12,797 choices and 5,089 yeses.
+
+The four posts will answer these questions
+
+<ol>
+  <li><a href="{{ page.url }}">Who&#39;s using CoffeeMe?</a> (this post)</li>
+  <li>Who&#39;s saying yes?</li>
+  <li>Who&#39;s being said yes to?</li>
+  <li>Who&#39;s actually being introduced?</li>
+</ol>
+
+For those unfamiliar with CoffeeMe, think of it as Tinder for professional networking. We show you someone&#39;s LinkedIn profile, you tell us whether you&#39;d like an introduction, we introduce you if you both agree.
+
+Let&#39;s party. And by party I mean look at data.
+
+h2. User Distribution
+
+<img src="https://s3.amazonaws.com/coffeeme/user-distribution.png" style="position: relative; left: -133px;">
+
+*Engineers and investors are overrepresented*. When looking at this user distribution, it&#39;s useful to think about the composition of the startup community as a whole. Obviously I don&#39;t know what that composition actually looks like but it&#39;s probably safe to say that there aren&#39;t more founders than engineers and designers. Therefore, founders are over represented on CoffeeMe. The same is probably true for investors.
+
+*Similar distribution in each city*. This surprised me given how different the 2 communities are. 2 potential explanations:
+
+<ol>
+  <li>Subconscious Selection &mdash; Since I&#39;ve approved every member manually, it&#39;s possible that there&#39;s a balance that I&#39;m subconsciously enforcing.</li>
+  <li>Target Market &mdash; It&#39;s also possible that this is roughly the percentage of people in each group  interested in a product like this. I don&#39;t know how likely this is but it&#39;s possible.</li>
+</ol>
+
+This surprised me given how different the communities are. It could be that since I manually approve every member on CoffeeMe, I&#39;m subconsciously enforcing this distribution. It&#39;s also possible that this is the the distribution of people in each group interested in a product like this. The former is probably more likely.
+
+*Designers are underrepresented*. Designers make up 7% of the user base. That feels like a lower percentage than exists in the startup community. This could suggest that designers are less interested in developing their professional networks or I haven&#39;t found the right way to reach them.
+
+h2. Choices per User
+
+<img src="https://s3.amazonaws.com/coffeeme/choices.png" style="position: relative; left: -133px;">
+
+A &ldquo;choice&rdquo; is when a user clicks either &ldquo;Yes&rdquo; or &ldquo;Maybe Later.&rdquo; They&#39;ve made a choice about that person.
+
+*High average choices per user*. The average user on CoffeeMe has made 49 choices. I can see how Tinder does a reported 600M swipes a day. This model makes it easy to make choices quickly and in large batches.
+
+*Higher in San Francisco*. The average number of choices per user in San Francisco is 19% higher than in Seattle. That&#39;s despite the Seattle community being a few months older.
+
+Before launching in San Francisco, I wondered whether CoffeeMe would be more valuable to a small (Seattle) or large (San Francisco) community. Maybe it would be more useful to a smaller community because there&#39;s less people so every connection counts. Maybe it would be more useful to a large community because there&#39;s so many potential connections. This data doesn&#39;t answer that question but it suggests that there is value to large communities.
+
+If you&#39;re interested in reading the other posts in this series, follow <a href="http://twitter.com/coffeemein">CoffeeMe on Twitter</a>.
+
+{% include share.html %}
