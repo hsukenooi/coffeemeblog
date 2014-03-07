@@ -1,6 +1,6 @@
 body, li { 
 	color: #4D4D4D; 
-	font-family: "museo-sans", "Helvetica Neue", Sans-Serif; 
+	font-family: "Helvetica Neue", Sans-Serif; 
 	font-size: 16px; 
 	line-height: 24px; 
 	margin: 0; 
@@ -93,7 +93,6 @@ a:hover,
 	margin: 0 0 24px; 
 }
 .post h1 { 
-	font-family: "museo-slab", Georgia;
 	font-size: 36px; 
 	line-height: 48px; 
 	margin: 0 0 24px;
@@ -109,6 +108,9 @@ a:hover,
 	margin-top: -18px; 
 	color: #999;
 	font-style: italic; 
+}
+.post h2 {
+	margin-top: 48px;
 }
 .post h4 { font-size: 1em; margin-bottom: 1.125em; line-height: 1.75em; }
 .post ol, .post ul {
