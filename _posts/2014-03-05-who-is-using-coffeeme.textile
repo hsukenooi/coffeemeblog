@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Who is using CoffeeMe?"
-excerpt: "The first of a four part series where I share CoffeeMe data and what it may suggest about people&rsquo;s preferences in professional networking."
+excerpt: "The first of a three part series where I share CoffeeMe data and what it may suggest about people&rsquo;s preferences in professional networking."
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
