@@ -22,7 +22,7 @@ h2. User Distribution
 
 <img src="https://s3.amazonaws.com/coffeeme/user-distribution.png" style="position: relative; left: -133px;">
 
-*Engineers and investors are overrepresented*. When looking at this user distribution, it&#39;s useful to think about the composition of the startup community as a whole. Obviously I don&#39;t know what that composition actually looks like but it&#39;s probably safe to say that there aren&#39;t more founders than engineers and designers. Therefore, founders are over represented on CoffeeMe. The same is probably true for investors.
+*Founders and investors are overrepresented*. When looking at this user distribution, it&#39;s useful to think about the composition of the startup community as a whole. Obviously I don&#39;t know what that composition actually looks like but it&#39;s probably safe to say that there aren&#39;t more founders than engineers and designers. Therefore, founders are over represented on CoffeeMe. The same is probably true for investors.
 
 *Similar distribution in each city*. This surprised me given how different the 2 communities are. 2 potential explanations:
 
@@ -30,8 +30,6 @@ h2. User Distribution
   <li>Subconscious Selection &mdash; Since I&#39;ve approved every member manually, it&#39;s possible that there&#39;s a balance that I&#39;m subconsciously enforcing.</li>
   <li>Target Market &mdash; It&#39;s also possible that this is roughly the percentage of people in each group  interested in a product like this. I don&#39;t know how likely this is but it&#39;s possible.</li>
 </ol>
-
-This surprised me given how different the communities are. It could be that since I manually approve every member on CoffeeMe, I&#39;m subconsciously enforcing this distribution. It&#39;s also possible that this is the the distribution of people in each group interested in a product like this. The former is probably more likely.
 
 *Designers are underrepresented*. Designers make up 7% of the user base. That feels like a lower percentage than exists in the startup community. This could suggest that designers are less interested in developing their professional networks or I haven&#39;t found the right way to reach them.
 
