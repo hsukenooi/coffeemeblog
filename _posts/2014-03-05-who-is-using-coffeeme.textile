@@ -8,8 +8,6 @@ h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
 I&rsquo;ve found the data being generated on CoffeeMe to be interesting for what it suggests about people&rsquo;s preferences for professional networking. The following is the first of three post where I analyze a data set that contains 12,797 choices, 5,089 yeses and is about a month old. In the three posts I&rsquo;ll answer the following questions:
 
-The three posts will answer these questions
-
 <ol>
   <li><a href="{{ page.url }}">Who&#39;s using CoffeeMe?</a> (this post)</li>
   <li>Who is saying yes and being said yes to?</li>
