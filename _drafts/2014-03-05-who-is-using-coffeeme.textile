@@ -6,15 +6,14 @@ excerpt: "The first of a four part series where I share CoffeeMe data and what i
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
-This is the first of four post where I share CoffeeMe data. While looking at the data for the purpose of making CoffeeMe better, I&rsquo;ve found it to be rich and interesting for what it suggestions about people&rsquo;s preferences for professional networking. For these posts I&rsquo;ll be using a data set that&rsquo;s a month or so old that contains 12,797 choices and 5,089 yeses.
+I&rsquo;ve found the data being generated on CoffeeMe to be interesting for what it suggests about people&rsquo;s preferences for professional networking. The following is the first of three post where I analyze a data set that contains 12,797 choices, 5,089 yeses and is about a month old. In the three posts I&rsquo;ll answer the following questions:
 
 The four posts will answer these questions
 
 <ol>
   <li><a href="{{ page.url }}">Who&#39;s using CoffeeMe?</a> (this post)</li>
-  <li>Who&#39;s saying yes?</li>
-  <li>Who&#39;s being said yes to?</li>
-  <li>Who&#39;s actually being introduced?</li>
+  <li>Who is saying yes and being said yes to?</li>
+  <li>Who is actually being introduced?</li>
 </ol>
 
 For those unfamiliar with CoffeeMe, think of it as Tinder for professional networking. We show you someone&#39;s LinkedIn profile, you tell us whether you&#39;d like an introduction, we introduce you if you both agree.
