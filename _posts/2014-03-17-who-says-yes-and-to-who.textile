@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Who is Saying Yes and to Who?"
+title: "Who do people want to meet professionally?"
 excerpt: "The second of three posts sharing what CoffeeMe's data tells us about people's professional networking preferences."
 ---
 
@@ -10,7 +10,7 @@ h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
 <i>For those unfamiliar with <a href="http://http://coffeeme.in">CoffeeMe</a>, think of it as Tinder for professional networking. We show you someone&rsquo;s LinkedIn profile, you tell us whether you&rsquo;d like an introduction, we introduce you if you both agree.</i>
 
-h2. Who Says Yes? 
+h2. Who is Saying Yes? 
 
 The following chart shows the percentage of time each group says yes. For example, in San Francisco, a business person says yes 36% of the time.
 
@@ -34,7 +34,7 @@ The following chart shows the percentage of time each group says yes. For exampl
   <li>Engineers are 36% less likely to say yes in SF than Seattle</li>
 </ul>
 
-h2. Who Do They Say Yes To? 
+h2. Who Are They Saying Yes to? 
 
 The following chart shows the percentage of time each group receives a yes. For example, in San Francisco, business people receive a yes 38% of the time.
 
