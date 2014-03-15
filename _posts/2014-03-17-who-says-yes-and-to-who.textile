@@ -1,0 +1,77 @@
+---
+layout: post
+title: "Who is Saying Yes and to Who?"
+excerpt: "The second of three posts sharing what CoffeeMe's data tells us about people's professional networking preferences."
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+<i>This is the second of three posts (<a href="http://blog.coffeeme.in/2014/03/05/who-is-using-coffeeme/">first post here</a>) where I share and analyze data from CoffeeMe. The data set is about a month old and contains 12,792 choices and 5,089 yeses.</i>
+
+<i>For those unfamiliar with <a href="http://http://coffeeme.in">CoffeeMe</a>, think of it as Tinder for professional networking. We show you someone&rsquo;s LinkedIn profile, you tell us whether you&rsquo;d like an introduction, we introduce you if you both agree.</i>
+
+h2. Who Says Yes? 
+
+The following chart shows the percentage of time each group says yes. For example, in San Francisco, a business person says yes 36% of the time.
+
+<img src="http://coffeeme.s3.amazonaws.com/intro-appetite.png" style="position: relative; left: -133px;">
+
+*People say yes 40% of the time.* Prior to launching, I had no idea what this ratio would be. My only hope was that it wasn't too low (maybe sub 5%?) that we couldn't make a meaningful number of introductions. 40% is much higher than I would've guessed. 3 things at play here:
+
+<ol>
+  <li>Exclusivity &mdash; Not everyone that signs-up is accepted so the quality of the community is high.</li>
+  <li>People want to connect &mdash; Demonstrates some demand for a product that connects people.</li>
+  <li>Fear of missing out &mdash; Many of the members I talked to described yes to someone even though they didn&rsquo;t necessarily need to connect with them right now or in the future. They simply didn't want to miss out on the opportunity in case it might be useful in the future.</li>
+</ol>
+
+*40% yes in both cities.* The ratio for each city isn&rsquo;t just kind of close, it's <i>really</i> close, within half a percentage point. Coincidence? Maybe but they&rsquo;re so close it suggests there might be an underlying factor (or set of factors) that holds this ratio at 40%. Maybe it's inherent in the way the product works or that the composition (<a href="https://s3.amazonaws.com/coffeeme/user-distribution.png" target="_blank">distribution by group</a>) of the user base is almost identical. It&rsquo;ll be interesting to see if this ratio holds when CoffeeMe becomes available in a new city. 
+
+*Somewhat city dependent.* Founders and business people say yes at a consistent rate but designers, investors and engineers vary significantly.
+
+<ul>
+  <li>Designers are 151% more likely to say yes in SF than Seattle</li>
+  <li>Investors are 118% more likely to say yes in SF than Seattle</li>
+  <li>Engineers are 36% less likely to say yes in SF than Seattle</li>
+</ul>
+
+h2. Who Do They Say Yes To? 
+
+The following chart shows the percentage of time each group receives a yes. For example, in San Francisco, business people receive a yes 38% of the time.
+
+<img src="http://coffeeme.s3.amazonaws.com/desirability.png" style="position: relative; left: -133px;">
+
+*People want to meet the same type of people regardless of city.* There's little variability (2%) between the cities in the above graph. This is opposite what we saw in the previous graph where the variability was 49%. Said differently, who says yes can be dependent on the city but who people say yes to is constant.
+
+*Designers are more desirable than everyone but investors.* As startups continue to put more and more importance on design (and rightfully so), the demand for designers has increased in 2 ways: 
+
+<ul>
+  <li>Hiring &mdash; The demand for designers is at least as high as it is for engineers (maybe higher). That certainly wasn&rsquo;t the case 10 years ago.</li>
+  <li>Design is now part of everyone&rsquo;s job &mdash; This is especially true for founders, product managers and front-end engineers. I&rsquo;ve heard anecdotally from several members that they wanted to connect with designers so they could learn more about design.</li>
+</ul>
+
+h2. Pair Matrix 
+
+Each cell represents how likely the group on the left is to say yes to the group above. For example, the top left cell represents how often a business person says yes to another business person, 37% in San Francisco (red triangle) and 39% in Seattle (blue triangle).
+
+<img src="http://coffeeme.s3.amazonaws.com/yes-matrix.png" style="position: relative; left: -133px;">
+
+*People are 33% more likely to say yes to people of the same group.* This is especially true for designers (71%). I&rsquo;m surprised founders aren&rsquo;t more interested (47%) in connecting with each other. I&rsquo;ve always found it helpful to trade stories, failures, etc. I&rsquo;m also surprised by how uninterested (26%) engineers in San Francisco are in connecting. That's 10 percentage points lower then the next lowest ratio of any same group pairing. 
+
+*It's not you, it's me.* In some cases, one group's interest in connectiing with another group isn't reciprocal. Here are the highest differences:
+
+<ul>
+  <li>Investors and everyone else &mdash; The other groups say yes to investors 49% of the time on average but investors only say yes 25% of the time</li>
+  <li>Engineers and designers &mdash; In San Francisco designers say yes to engineers nearly twice as often as the reverse. In Seattle  the opposite is true, engineers say yes to designers nearly twice as much as the reverse.</li>
+</ul>
+
+*Who is most valuable to the community?* If we define &ldquo;valuable&rdquo; as a group that wants to connect with lots of people and lots of people want to connect with them, we can sum each groups appetite (% of time they say yes) and desirability (% of time they receive a yes) ratios to get a value function. 
+
+<img src="https://coffeeme.s3.amazonaws.com/combined.png" style="position: relative; left: -133px;">
+
+As you can see, founders are consistently my most valuable type of user. They have an above average appetite (46%) and desirability (41%) ratio. This makes real world sense too. Founders leverage their networks heavily and typically spend more time developing them than people in other groups.
+
+You might also notice there&rsquo;s variability depending on the city. Designers in San Francisco have the highest value score when you take city into account, 30% higher than the average. Similarly for investors in San Francisco and engineers in Seattle.
+
+Next week we'll look at which groups are actually connecting on CoffeeMe.
+
+{% include share.html %}
