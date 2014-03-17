@@ -6,9 +6,13 @@ excerpt: "The second of three posts sharing what CoffeeMe's data tells us about 
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
-<i>This is the second of three posts (<a href="http://blog.coffeeme.in/2014/03/05/who-is-using-coffeeme/">first post here</a>) where I share and analyze data from CoffeeMe. The data set is about a month old and contains 12,792 choices and 5,089 yeses.</i>
-
 <i>For those unfamiliar with <a href="http://http://coffeeme.in">CoffeeMe</a>, think of it as Tinder for professional networking. We show you someone&rsquo;s LinkedIn profile, you tell us whether you&rsquo;d like an introduction, we introduce you if you both agree.</i>
+
+h2. Background
+
+This is the second of three posts (<a href="http://blog.coffeeme.in/2014/03/05/who-is-using-coffeeme/">first post here</a>) where I share and analyze data from CoffeeMe. The data set is about a month old and contains 12,792 choices and 5,089 yeses.
+
+Each user was placed into 1 of 5 groups (business, designer, etc.). I then looked at the aggregate choices (did they say yes or no to connecting) of each group when presented with the Linkedin profile of another user. By looking at these choices in aggregate, it&rsquo;ll show us who each of the groups are interested and not interested in connecting with professionally.
 
 h2. Who is Saying Yes? 
 
