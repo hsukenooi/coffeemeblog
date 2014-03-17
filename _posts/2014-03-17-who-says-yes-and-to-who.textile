@@ -6,7 +6,7 @@ excerpt: "The second of three posts sharing what CoffeeMe's data tells us about 
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
-<i>For those unfamiliar with <a href="http://coffeeme.in">CoffeeMe</a>, think of it as Tinder for professional networking. We show you someone&rsquo;s LinkedIn profile, you tell us whether you&rsquo;d like an introduction, we introduce you if you both agree.</i>
+<i>For those unfamiliar with <a href="http://coffeeme.in" target="_blank">CoffeeMe</a>, think of it as Tinder for professional networking. We show you someone&rsquo;s LinkedIn profile, you tell us whether you&rsquo;d like an introduction, we introduce you if you both agree.</i>
 
 h2. Background
 
