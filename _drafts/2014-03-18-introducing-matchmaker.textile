@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Introducing Matchmaker"
+excerpt: ""
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+<p class="subheadline">Suggest that two people should connect</p>
+
+Ever run across someone on CoffeeMe and think, &ldquo;I know someone that would really benefit from connecting with this person?&rdquo; Unfortunately there hasn&rsquo;t been an easy way to facilitate this kind of third party introduction.
+
+That changes today. Today we&rsquo;ve released something we call Matchmaker that let's you suggest that two people connect. 
+
+Here&rsquo;s how it works:
+
+<script async class="speakerdeck-embed" data-id="ec7a162088640131e2cf3e0fc9e9dea9" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+<br>
+
+<ol>
+  <li>If you see someone you think someone you know would be interested in connecting with, click the link underneath the &ldquo;Maybe Later&rdquo; and &ldquo;Yes&rdquo; buttons</li>
+  <li>A modal will appear, enter their email address and click send</li>
+  <li>They&rsquo;ll receive an email saying you thought there was someone they would benefit from connecting with and information on that person</li>
+  <li>They can then sign up for CoffeeMe through your personalized link and when approved, the person you passed to them will be at the top of their queue</li>
+</ol>
+
+As much as we love helping you build your professional network, we love seeing people help build each other&rsquo;s professional networks even more! 
+
+What do you think? Think it could be better? Let us know what you think.
+
+{% include share.html %}
