@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Introducing Matchmaker"
-excerpt: ""
+excerpt: "Ever run across someone on CoffeeMe and think, &ldquo;I know someone that would really benefit from connecting with this person?&rdquo; Unfortunately there hasn&rsquo;t been an easy way to facilitate this kind of third party introduction."
 ---
 
 h1. <a href="{{ page.url }}">{{ page.title }}</a>
 
-<p class="subheadline">Suggest that two people should connect</p>
+<p class="subheadline">Suggest two people that should connect</p>
 
 Ever run across someone on CoffeeMe and think, &ldquo;I know someone that would really benefit from connecting with this person?&rdquo; Unfortunately there hasn&rsquo;t been an easy way to facilitate this kind of third party introduction.
 
