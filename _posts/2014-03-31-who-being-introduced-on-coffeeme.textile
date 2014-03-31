@@ -1,0 +1,78 @@
+---
+layout: post
+title: "Who is Being Introduced on CoffeeMe?"
+excerpt: "The third of a three posts sharing what CoffeeMe's data tells us about people's professional networking preferences. The focus in this post is on who is actually being introduced."
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+h2. Background
+
+CoffeeMe is a website that shows you someone&rsquo;s Linkedin profile, asks you if you&rsquo;d like to be introduced to them and introduces you if you both agree. Think Tinder for professional networking.
+
+To better understand people's behavior based on their job function, we placed each user into one of five groups: business, designer, engineer, founder or investor. We then analyzed the choices and resulting introductions of each group to see what they revealed about their professional networking preferences.
+
+h2. What Typically Happens After Someone Says Yes?
+
+Before jumping straight into who is being introduced, let&rsquo;s look at what typically happens after someone says yes. In a <a href="http://blog.coffeeme.in/2014/03/17/who-says-yes-and-to-who/" target="_blank">previous post</a> we showed that users said yes a surprising 40% of the time. Each yes has 3 possible outcomes:
+
+<ol>
+  <li>Match &mdash; The other person also says yes</li>
+  <li>No Match &mdash; The other person didn&rsquo;t say yes</li>
+  <li>No Reply &mdash; The other person hasn&rsquo;t responded because they haven&rsquo;t seen the profile</li>
+</ol>
+
+The pie chart below shows how common each of these outcomes are.
+
+<img src="https://d262ilb51hltx0.cloudfront.net/max/800/1*t7oVgQwGYQFRIHRuq3uX8g.png" style="position: relative; left: -133px;">
+
+<b>Inefficient Marketplace</b>. 43% of yeses haven&rsquo;t received a response (no reply) from the other person. This tells me that CoffeeMe, as a product, still has a lot of work to do. Ideally there&rsquo;d be close to 0% no replies.
+
+<b>7% of yeses turn into a introduction</b>. Basic probability tells us that if people say yes 40% of the time and both people need to say yes for an introduction to occur, then introductions should occur 16% of the time (40% multiplied by 40%). In actuality it&rsquo;s about half that. Primarily because of the inefficiencies described above. If you look only at the yeses with responses, you&rsquo;ll find 32% result in a introduction.
+
+h2. Likelihood of a Pair Being Introduced 
+
+Originally I was intending to share the distribution of introductions by pair (<a href="https://coffeeme.s3.amazonaws.com/matches-distro-matrix.png" target="_blank">see here</a>) but it was so dependent on the size of each group it wasn&rsquo;t very informative. Instead it&rsquo;s more useful to normalize for size by looking at the likelihood (matches per impression) any given pair is introduced. The top left cell of the matrix below indicates that in San Francisco 6% of impressions between business people result in a introduction, 4% in Seattle.
+
+<img src="https://d262ilb51hltx0.cloudfront.net/max/800/1*pXNmMmZOotC_6Z1BcMuz8Q.png" style="position: relative; left: -133px;">
+
+It&rsquo;s important to remember that this likelihood is driven by how often group A says yes to group B and vice versa. High percentages are typically because both groups say yes to each other at a high rate. The opposite for low percentages.
+
+<b>Designers in San Francisco have it good</b>. They have the highest average introduction likelihood (12%) of any other group. They like each other (high likelihood to connect with each other) and they are more likely to get an introduction to an investor than founders in San Francisco.
+
+<b>A tale of two cities</b>. Although they&rsquo;re both west coast cities with a history in technology, the startup communities in Seattle and San Francisco are different and it shows.
+
+<ul>
+  <li>An investor is 18 times more likely to be introduced to another investor in San Francisco than Seattle</li>
+  <li>An engineer is a little over 3 times as likely to be introduced to another engineer in Seattle than San Francisco</li>
+  <li>An engineer is a little over 2 times as likely to be introduced to a founder in Seattle than San Francisco</li>
+  <li>A business person is almost 4 times more likely to be introduced to a designer in San Francisco than Seattle</li>
+</ul>
+
+h2. Visualizing Every Choice and Introduction
+
+The visualization below represents all 12,792 choices, 5,089 yeses and 930 introductions that have occurred on CoffeeMe as of about a month and a half ago. Cool huh?
+
+Each bar is made up of 3 sections:
+
+<ul>
+  <li>Light Red &mdash; Maybe Laters</li>
+  <li>Light Green &mdash; Yeses that haven&rsquo;t resulted in a match yet</li>
+  <li>Multicolor Bars &mdash; Yeses that resulted in a introduction. Each color represents who the introduction was made with</li>
+</ul>
+
+<img src="https://d262ilb51hltx0.cloudfront.net/max/800/1*G8Xqqh6EaB6Y3UxmJc5oPA.png" style="position: relative; left: -133px;">
+
+What I like about this visualization is it gives you a quick sense of how each group behaves on CoffeeMe. The ratio of maybe laters to yeses, the percentage of yeses that turn into introductions, who the introductions are with.
+
+<b>Investors have the highest yes to match ratio at 54%</b>. Especially in Seattle where 61% of yeses turned into a introduction. Having lived in Seattle for a few years I suspect this is because of how rare investors are in that community. People jump at the chance to be introduced to one.
+
+<b>Business people have the lowest yes to match ratio at 27%</b>. Since this group includes a wide variety of jobs (product, marketing, etc.) it&rsquo;s hard to pin down the root cause. I know anecdotally that makers (designers and engineers) are typically reluctant to meet with business people. The data seems to back that notion up when you look at how thin the yellow and orange bands are for business people.
+
+<b>Tale of two cities again</b>. I mentioned previously how different certain groups were depending on the city. This really becomes obvious in this chart. Look at the differences for designers, engineers and investors depending on the city. On the flip side, look at how steady the founder and business groups are. I wonder why these two groups are so predictable when there others aren&rsquo;t.
+
+What do you think? Notice anything that I missed? I&rsquo;d love to hear about it! <a href="http://twitter.com/hsukenooi" target="_blank">@hsukenooi</a>.
+
+<i>This was the 3rd post in a series of 3 post looking at what CoffeeMe data tells us about people&rsquo;s professional networking preferences. Here are links to the <a href="http://blog.coffeeme.in/2014/03/05/who-is-using-coffeeme/" target="_blank">first</a> and <a href="http://blog.coffeeme.in/2014/03/17/who-says-yes-and-to-who/" target="_blank">second</a> posts.</i>
+
+{% include share.html %}
