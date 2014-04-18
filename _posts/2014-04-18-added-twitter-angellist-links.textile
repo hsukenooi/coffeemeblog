@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Added Twitter and AngelList Links to Profiles"
+excerpt: "We manually added links to everyone's Twitter and AngelList profile's. People we're searching for this information manually so we decided to just include it."
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+Here&rsquo;s how most people make decisions on CoffeeMe:
+
+<ol>
+  <li>First Impression &mdash; Quickly scan someone&rsquo;s profile to see if they&rsquo;re working on something interesting. Typically this means looking at their role (engineer, designer, etc.) or if it&rsquo;s a company you recognize.</li>
+  <li>Research &mdash; If they seem potentially interesting, most people will click-through to their Linkedin profile and/or do a Google search to find their Twitter, AngelList, etc.</li>
+  <li>Decision &mdash; Once they have all the information, they&rsquo;ll make a decision.</li>
+</ol>
+
+We&rsquo;ve made the second step easier by allowing people to add links to their Twitter and AngelList profile. Go to <a href="http://www.coffeeme.in/user/edit">http://www.coffeeme.in/user/edit</a> and you&rsquo;ll see where to add your links on the bottom right.
+
+<img src="https://coffeeme.s3.amazonaws.com/user-edit.png" width="540">
+
+Here&rsquo;s how the links will show up on your profile:
+
+<img src="https://coffeeme.s3.amazonaws.com/user-profile.png" width="540">
+
+Hopefully that makes things easier.
+
+h2. What do you need to do? 
+
+Nothing actually. We manually found everyone&rsquo;s profile and added them.
+
+{% include share.html %}

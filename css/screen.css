@@ -77,14 +77,12 @@ a:hover,
 	border-bottom: 0 !important;
 }
 .posts .post-listing {
-	padding-bottom: 12px;
+	padding-bottom: 18px;
 	margin-bottom: 30px;
 	border-bottom: 1px solid #eee;
 }
-.posts .post-listing h1 {
-	font-size: 30px;
-	line-height: 42px;
-	margin-bottom: 12px;
+.posts .post-listing h2 {
+	margin: 6px 0;
 }
 .post {
 	margin-bottom: 30px; 
