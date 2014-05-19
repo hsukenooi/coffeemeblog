@@ -1,0 +1,31 @@
+---
+layout: post
+title: "2 Features and a Redesign"
+excerpt: "You can now respond to messages by email. Introduce matches to someone else you know."
+---
+
+h1. <a href="{{ page.url }}">{{ page.title }}</a>
+
+<p class="subheadline">Easier messaging and introduce someone you know.</p>
+
+h3. Respond to Messages by Email
+
+You can now reply to messages by replying to the message notification email. It was a hassle to get the email, read the message and not be able to reply immediately from your inbox.
+
+h3. Introduce to Someone You Know
+
+You can now introduce people you've matched with on CoffeeMe to someone you know.
+
+<a href="https://coffeeme.s3.amazonaws.com/messaging-redesign.png" style="text-decoration: none; border: 0;">
+  <img src="https://coffeeme.s3.amazonaws.com/messaging-redesign.png" width="540">
+</a>
+
+h3. Messaging Redesign
+
+I also took the liberty of cleaning up the interface (easier to scan, added pagination, etc.) a little bit. Here's a few of the other directions I played around with.
+
+<a href="https://coffeeme.s3.amazonaws.com/Screenshot%202014-05-18%2016.22.27.png" style="text-decoration: none; border: 0;">
+  <img src="https://coffeeme.s3.amazonaws.com/Screenshot%202014-05-18%2016.22.27.png" width="540">
+</a>
+
+{% include share.html %}
